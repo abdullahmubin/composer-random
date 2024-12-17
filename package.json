@@ -1,0 +1,9 @@
+{
+  "name": "node-monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/service-a",
+    "packages/service-b",
+    "packages/utils"
+  ]
+}
